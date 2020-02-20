@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e3d7770-4320-4912-91f4-2d3542c4beaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3/Chapter 3. 선형 회귀 분석.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3/grad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 3/Linear.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +39,28 @@
       <recent name="C:\Users\Dongjin\PycharmProjects\pytorch\Chapter 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.grad">
+  <component name="RunManager" selected="Python.Linear">
+    <configuration name="Linear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 3/Linear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="grad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,6 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Linear" />
         <item itemvalue="Python.grad" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.test" />
@@ -146,25 +166,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1577888196142" />
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1581855562852">
+    <state width="1899" height="227" key="GridCell.Tab.0.bottom" timestamp="1582207519736">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1581855562852" />
-    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1581855562851">
+    <state width="1899" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1582207519736" />
+    <state width="1899" height="227" key="GridCell.Tab.0.center" timestamp="1582207519735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1581855562851" />
-    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1581855562851">
+    <state width="1899" height="227" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1582207519735" />
+    <state width="1899" height="227" key="GridCell.Tab.0.left" timestamp="1582207519735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1581855562851" />
-    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1581855562851">
+    <state width="1899" height="227" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1582207519735" />
+    <state width="1899" height="227" key="GridCell.Tab.0.right" timestamp="1582207519735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1581855562851" />
-    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1581852180862">
+    <state width="1899" height="227" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1582207519735" />
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582202432326">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1581852180862" />
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1582202432326" />
   </component>
 </project>
